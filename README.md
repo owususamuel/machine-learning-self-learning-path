@@ -1,5 +1,5 @@
 # Learning path to education in Machine Learning
-An unconventional learning path to go from a total beginner in machine learning to a professional engineer
+An unconventional learning path to go from a total beginner in machine learning to a professional A.I engineer
 
 ## Contents
 
