@@ -19,23 +19,14 @@ Here is an interesting link the Twitter page of an AI community in Nigeria, doin
 - [AI Saturday Lagos](https://www.twitter.com/aisaturdaylagos)
 
 ## Curriculum
-### MONTH 1
-**_Week 1 : Linear algebra_**
+### PREREQUISITES 
 - [ ] 3 blue 1 brown linear algebra YouTube playlist.
 - [ ] Khan academy course.
-
-**_Week 2: Calculus_**
 - [ ] 3 blue 1 brown  calculus YouTube playlist.
-
-**_Week 3: Probability_**
 - [ ] Edx introduction to Probability - The science of uncertainty.
-
-**_Week 4: Algorithms_**
 - [ ] Edx algorithm design and analysis(Python)
-- [ ] github.com/kuleshov/cs228-material
 
-
-## MONTH 2
+## MONTH 1
 **_Week 1_**
 - Learn python for data science by Siraj Raval on YouTube.
 - The math of intelligence by Siraj Raval on YouTube.
@@ -66,7 +57,7 @@ Here is an interesting link the Twitter page of an AI community in Nigeria, doin
 -  Fast Mask RCNN for object detection and segmentation
 
 
-### MONTH 3
+### MONTH 2
 **_Week 1_**
 - Intro to deep learning on Udacity
 - Week 1 - Feedforward Neural Networks and Backpropagation
@@ -83,7 +74,7 @@ Here is an interesting link the Twitter page of an AI community in Nigeria, doin
 **_Week 3&4_**
 - Deep learning by Fast.ai
 
-### MONTH 4
+### MONTH 3
 **_Week 1_**
 
 - Youtube: Computer Vision Foundation (CVF)
@@ -129,5 +120,5 @@ Here is an interesting link the Twitter page of an AI community in Nigeria, doin
 - Want to make your car fully automatic? — that’s a good starting point.
 
 
-## MONTH 5
+## MONTH 4
 - Fill the gap on deep learning with *“Deep Learning Book”* by Ian goodfellow and Blog posts and *"Yearning for A.I"* by Andrew NG
