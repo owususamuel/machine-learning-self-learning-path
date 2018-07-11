@@ -31,9 +31,8 @@ Here is an interesting link the Twitter page of an AI community in Nigeria, doin
 - Learn python for data science by Siraj Raval on YouTube.
 - The math of intelligence by Siraj Raval on YouTube.
 - Intro to Tensorflow by Siraj Raval
-
 - www.explained.ai
-- Youtube : Image Processing Group - UPC/BarcelonaTech
+- Google ML Crash Course
 
 **_Week 2_**
 - Introduction to ML by Udacity.
@@ -70,6 +69,7 @@ Here is an interesting link the Twitter page of an AI community in Nigeria, doin
 
 **_Week 2_**
 - Theories of Deep Learning (stats385.github.io/readings)
+- Youtube : Image Processing Group - UPC/BarcelonaTech
 
 **_Week 3&4_**
 - Deep learning by Fast.ai
