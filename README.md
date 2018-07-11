@@ -9,7 +9,7 @@ An unconventional learning path to go from a total beginner in machine learning 
 - [Curriculum](#curriculum)
 
 ## About
-This is a **path** for those who is interested in learning **Machine Learning/Deep Learning/AI** course on your own time, **for free**. The list comprises of videos, articles, courses, lectures etc. 
+This is a **path** for those who is interested in learning **Machine Learning/Deep Learning/AI** course on your own time, **for free**. The list comprises of videos, articles, courses, lectures, books etc. 
 
 ## How to use this guide (Daily Plan)
 The intention of this path is not to conclude everything on this list. Each subject does not require a whole day to be able to understand it fully, and can do multiple of these in a day. Each day I take one subject from the list below, read it cover to cover, take notes, do the exercises and write an implementation in Python.  The list is to guide me on the things I can focus on in the coming weeks. I am expected to spend at least 3 hours very day (to cover 10 - 30 hours per week). That is what is important to me, progress daily.
